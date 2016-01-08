@@ -1,0 +1,9 @@
+uint32 length
+int32 lDirection
+uint32 lNum
+int32 rDirection
+uint32 rNum
+int32 rearDirection
+uint32 rearNum
+uint32 headPosition
+bool isLedOn
